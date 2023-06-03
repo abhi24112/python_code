@@ -1,0 +1,5 @@
+s=input("Enter the string :")
+a=input("Entter the string you want to replace :")
+b=input("Enter the string for replacing:")
+r=s.replace(a,b)
+print("string is:",r)

@@ -1,0 +1,5 @@
+c=complex(3.14 , 2.73)
+print(c.real)
+print(c.imag)
+print(c.conjugate())
+print(c*2)
